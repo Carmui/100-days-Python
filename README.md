@@ -13,8 +13,8 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 7** - Beginner - Hangman
 - :heavy_check_mark: **Day 8** - Beginner - Function Parameters & Caesar Cipher
 - :heavy_check_mark: **Day 9** - Beginner - Dictionaries, Nesting and the Secret Auction
-- :x: **Day 10**
-- :x: **Day 11** 
+- :heavy_check_mark: **Day 10** - Beginner - Functions with Outputs
+- :heavy_check_mark: **Day 11** - Beginner - The Blackjack Capstone Project
 - :x: **Day 12**
 - :x: **Day 13**
 - :x: **Day 14**
