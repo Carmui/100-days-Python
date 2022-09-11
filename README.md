@@ -15,10 +15,10 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 9** - Beginner - Dictionaries, Nesting and the Secret Auction
 - :heavy_check_mark: **Day 10** - Beginner - Functions with Outputs
 - :heavy_check_mark: **Day 11** - Beginner - The Blackjack Capstone Project
-- :x: **Day 12**
-- :x: **Day 13**
-- :x: **Day 14**
-- :x: **Day 15**
+- :heavy_check_mark: **Day 12** - Beginner - Scope & Number Guessing Game
+- :heavy_check_mark: **Day 13** - Beginner - Debugging: How to Find and Fix Errors in your Code
+- :heavy_check_mark: **Day 14** - Beginner - Higher Lower Game Project
+- :heavy_check_mark: **Day 15** - Intermediate - Local Development Environment Setup & the Coffee Machine
 - :x: **Day 16**
 - :x: **Day 17**
 - :x: **Day 18**
