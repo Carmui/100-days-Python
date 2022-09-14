@@ -19,7 +19,7 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 13** - Beginner - Debugging: How to Find and Fix Errors in your Code
 - :heavy_check_mark: **Day 14** - Beginner - Higher Lower Game Project
 - :heavy_check_mark: **Day 15** - Intermediate - Local Development Environment Setup & the Coffee Machine
-- :x: **Day 16**
+- :heavy_check_mark: **Day 16** - Intermediate - Object Oriented Programming (OOP)
 - :x: **Day 17**
 - :x: **Day 18**
 - :x: **Day 19**
