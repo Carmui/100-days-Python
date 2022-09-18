@@ -20,8 +20,8 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 14** - Beginner - Higher Lower Game Project
 - :heavy_check_mark: **Day 15** - Intermediate - Local Development Environment Setup & the Coffee Machine
 - :heavy_check_mark: **Day 16** - Intermediate - Object Oriented Programming (OOP)
-- :heavy_check_mark: **Day 17** - Intermediate - The Quiz Project & the Benefits of OOP
-- :heavy_check_mark: **Day 18** - Intermediate - Turtle & the Graphical User Interface (GUI)
+- :x: **Day 17**
+- :x: **Day 18**
 - :x: **Day 19**
 - :x: **Day 20**
 - :x: **Day 21** 
