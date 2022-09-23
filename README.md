@@ -22,9 +22,9 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 16** - Intermediate - Object Oriented Programming (OOP)
 - :heavy_check_mark: **Day 17** - Intermediate - The Quiz Project & the Benefits of OOP
 - :heavy_check_mark: **Day 18** - Intermediate - Turtle & the Graphical User Interface (GUI)
-- :x: **Day 19**
-- :x: **Day 20**
-- :x: **Day 21** 
+- :heavy_check_mark: **Day 19** - Intermediate - Instances, State and Higher Order Functions
+- :heavy_check_mark: **Day 20** - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
+- :heavy_check_mark: **Day 21** - Intermediate - Build The Snake Game Part 2: Inheritance & List Slicing
 - :x: **Day 22**
 - :x: **Day 23**
 - :x: **Day 24**
