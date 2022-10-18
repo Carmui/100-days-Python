@@ -25,11 +25,11 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 19** - Intermediate - Instances, State and Higher Order Functions
 - :heavy_check_mark: **Day 20** - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
 - :heavy_check_mark: **Day 21** - Intermediate - Build The Snake Game Part 2: Inheritance & List Slicing
-- :x: **Day 22**
-- :x: **Day 23**
-- :x: **Day 24**
-- :x: **Day 25**
-- :x: **Day 26**
+- :heavy_check_mark: **Day 22** - Intermediate - Build Pong: The Famous Arcade Game
+- :heavy_check_mark: **Day 23** - Intermediate - The Turtle Crossing Capstone Project
+- :heavy_check_mark: **Day 24** - Intermediate - Files, Directories and Paths
+- :heavy_check_mark: **Day 25** - Intermediate - Working with CSV Data and the Pandas Library
+- :heavy_check_mark: **Day 26** - Intermediate - List Comprehension and the NATO Alphabet
 - :x: **Day 27**
 - :x: **Day 28**
 - :x: **Day 29**
