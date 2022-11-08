@@ -30,13 +30,13 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 24** - Intermediate - Files, Directories and Paths
 - :heavy_check_mark: **Day 25** - Intermediate - Working with CSV Data and the Pandas Library
 - :heavy_check_mark: **Day 26** - Intermediate - List Comprehension and the NATO Alphabet
-- :x: **Day 27**
-- :x: **Day 28**
-- :x: **Day 29**
-- :x: **Day 30**
-- :x: **Day 31** 
-- :x: **Day 32**
-- :x: **Day 33**
+- :heavy_check_mark: **Day 27** - Intermediate - Tkinter, *args, **kwargs and Creating GUI Programs
+- :heavy_check_mark: **Day 28** - Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- :heavy_check_mark: **Day 29** - Intermediate - Building a Password Manager GUI APP with Tkinter
+- :heavy_check_mark: **Day 30** - Intermediate - Errors, Exceptions and JSON Data: Improving the Password
+- :heavy_check_mark: **Day 31** - Intermediate - Flash Card App Capstone Project
+- :heavy_check_mark: **Day 32** - Intermediate+ - Send Email (smtplib) & Manage Dates (datetime)
+- :heavy_check_mark: **Day 33** - Intermediate+ - API Endpoints & API Parameters - ISS Overhead Notifier
 - :x: **Day 34**
 - :x: **Day 35**
 - :x: **Day 36**
