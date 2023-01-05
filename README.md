@@ -37,23 +37,23 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 31** - Intermediate - Flash Card App Capstone Project
 - :heavy_check_mark: **Day 32** - Intermediate+ - Send Email (smtplib) & Manage Dates (datetime)
 - :heavy_check_mark: **Day 33** - Intermediate+ - API Endpoints & API Parameters - ISS Overhead Notifier
-- :x: **Day 34**
-- :x: **Day 35**
-- :x: **Day 36**
-- :x: **Day 37**
-- :x: **Day 38**
-- :x: **Day 39**
-- :x: **Day 40**
-- :x: **Day 41** 
-- :x: **Day 42**
-- :x: **Day 43**
-- :x: **Day 44**
-- :x: **Day 45**
-- :x: **Day 46**
-- :x: **Day 47**
-- :x: **Day 48**
-- :x: **Day 49**
-- :x: **Day 50**
+- :heavy_check_mark: **Day 34** - Intermediate+ - API Practice - Creating a GUI Quiz App
+- :heavy_check_mark: **Day 35** - Intermediate+ - Keys, Authentication & Environemnt Variables
+- :heavy_check_mark: **Day 36** - Intermediate+ - Stock Trading News Alert Project
+- :heavy_check_mark: **Day 37** - Intermediate+ - Habit Tracking Project: API Post Requests & Headers
+- :heavy_check_mark: **Day 38** - Intermediate+ - Workout Tracking Using Google Sheets
+- :heavy_check_mark: **Day 39** - Intermediate+ - Capstone Part 1: Flight Deal Finder
+- :heavy_check_mark: **Day 40** - Intermediate+ - Capstone Part 2: Flight Club
+- :heavy_check_mark: **Day 41** - Web Foundation - Introduction to HTML
+- :heavy_check_mark: **Day 42** - Web Foundation - Intermediate HTML
+- :x: **Day 43** - Web Foundation - Introduction to CSS
+- :x: **Day 44** - Web Foundation - Intermediate CSS
+- :x: **Day 45** - Intermediate+ - Web Scraping with Beautiful Soup
+- :x: **Day 46** - Intermediate+ - Create a Spotify Playlist
+- :x: **Day 47** - Intermediate+ - Create an Automated Amazon Price Tracker
+- :x: **Day 48** - Intermediate+ - Selenium Webdriver Browser and Game Playing Bot
+- :x: **Day 49** - Intermediate+ - Automating Job Applications on Linkedin
+- :x: **Day 50** - Intermediate+ - Auto Tinder Swiping Bot
 - :x: **Day 51** 
 - :x: **Day 52**
 - :x: **Day 53**
