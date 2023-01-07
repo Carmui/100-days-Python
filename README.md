@@ -46,7 +46,7 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 40** - Intermediate+ - Capstone Part 2: Flight Club
 - :heavy_check_mark: **Day 41** - Web Foundation - Introduction to HTML
 - :heavy_check_mark: **Day 42** - Web Foundation - Intermediate HTML
-- :x: **Day 43** - Web Foundation - Introduction to CSS
+- :heavy_check_mark: **Day 43** - Web Foundation - Introduction to CSS
 - :x: **Day 44** - Web Foundation - Intermediate CSS
 - :x: **Day 45** - Intermediate+ - Web Scraping with Beautiful Soup
 - :x: **Day 46** - Intermediate+ - Create a Spotify Playlist
@@ -54,16 +54,16 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :x: **Day 48** - Intermediate+ - Selenium Webdriver Browser and Game Playing Bot
 - :x: **Day 49** - Intermediate+ - Automating Job Applications on Linkedin
 - :x: **Day 50** - Intermediate+ - Auto Tinder Swiping Bot
-- :x: **Day 51** 
-- :x: **Day 52**
-- :x: **Day 53**
-- :x: **Day 54**
-- :x: **Day 55**
-- :x: **Day 56**
-- :x: **Day 57**
-- :x: **Day 58**
-- :x: **Day 59**
-- :x: **Day 60**
+- :x: **Day 51** - Intermediate+ - Internet Speed Twitter Complaint Bot
+- :x: **Day 52** - Intermediate+ - Instagram Follower Bot
+- :x: **Day 53** - Intermediate+ - Web Scraping Capston - Data Entry Job Automation
+- :x: **Day 54** - Intermediate+ - Introduction to Web Development with Flask
+- :x: **Day 55** - Intermediate+ - HTML & URL Parsing in Flask and the Higher Lower Game
+- :x: **Day 56** - Intermediate+ - Rendering HTML/Static Files and Using Website Templates
+- :x: **Day 57** - Intermediate+ - Templating with Jinja in Flask Applications
+- :x: **Day 58** - Intermediate+ - Web Foundation Bootstrap
+- :x: **Day 59** - Advanced - Blog Capstone Project Part 2 - Adding Styling
+- :x: **Day 60** - Advanced - Make POST Requests with Flask and HTML Forms
 - :x: **Day 61** 
 - :x: **Day 62**
 - :x: **Day 63**
