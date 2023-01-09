@@ -47,7 +47,7 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 41** - Web Foundation - Introduction to HTML
 - :heavy_check_mark: **Day 42** - Web Foundation - Intermediate HTML
 - :heavy_check_mark: **Day 43** - Web Foundation - Introduction to CSS
-- :x: **Day 44** - Web Foundation - Intermediate CSS
+- :heavy_check_mark: **Day 44** - Web Foundation - Intermediate CSS
 - :x: **Day 45** - Intermediate+ - Web Scraping with Beautiful Soup
 - :x: **Day 46** - Intermediate+ - Create a Spotify Playlist
 - :x: **Day 47** - Intermediate+ - Create an Automated Amazon Price Tracker
