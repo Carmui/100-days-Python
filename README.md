@@ -49,7 +49,7 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 43** - Web Foundation - Introduction to CSS
 - :heavy_check_mark: **Day 44** - Web Foundation - Intermediate CSS
 - :heavy_check_mark: **Day 45** - Intermediate+ - Web Scraping with Beautiful Soup
-- :x: **Day 46** - Intermediate+ - Create a Spotify Playlist
+- :heavy_check_mark: **Day 46** - Intermediate+ - Create a Spotify Playlist
 - :x: **Day 47** - Intermediate+ - Create an Automated Amazon Price Tracker
 - :x: **Day 48** - Intermediate+ - Selenium Webdriver Browser and Game Playing Bot
 - :x: **Day 49** - Intermediate+ - Automating Job Applications on Linkedin
