@@ -54,7 +54,7 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 48** - Intermediate+ - Selenium Webdriver Browser and Game Playing Bot
 - :heavy_check_mark: **Day 49** - Intermediate+ - Automating Job Applications on Linkedin
 - :heavy_check_mark: **Day 50** - Intermediate+ - Auto Tinder Swiping Bot
-- :x: **Day 51** - Intermediate+ - Internet Speed Twitter Complaint Bot
+- :heavy_check_mark: **Day 51** - Intermediate+ - Internet Speed Twitter Complaint Bot
 - :x: **Day 52** - Intermediate+ - Instagram Follower Bot
 - :x: **Day 53** - Intermediate+ - Web Scraping Capston - Data Entry Job Automation
 - :x: **Day 54** - Intermediate+ - Introduction to Web Development with Flask
