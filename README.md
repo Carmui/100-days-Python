@@ -64,27 +64,27 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :x: **Day 58** - Intermediate+ - Web Foundation Bootstrap
 - :x: **Day 59** - Advanced - Blog Capstone Project Part 2 - Adding Styling
 - :x: **Day 60** - Advanced - Make POST Requests with Flask and HTML Forms
-- :x: **Day 61** 
-- :x: **Day 62**
-- :x: **Day 63**
-- :x: **Day 64**
-- :x: **Day 65**
-- :x: **Day 66**
-- :x: **Day 67**
-- :x: **Day 68**
-- :x: **Day 69**
-- :x: **Day 70**
-- :x: **Day 71** 
-- :x: **Day 72**
-- :x: **Day 73**
-- :x: **Day 74**
-- :x: **Day 75**
-- :x: **Day 76**
-- :x: **Day 77**
-- :x: **Day 78**
-- :x: **Day 79**
-- :x: **Day 80**
-- :x: **Day 81** 
+- :x: **Day 61** - Advanced - Building Advanced Forms with Flask-WTForms
+- :x: **Day 62** - Advanced - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+- :x: **Day 63** - Advanced - Databases and with SQLite and SQLAlchemy
+- :x: **Day 64** - Advanced - My Top 10 Movies Website
+- :x: **Day 65** - Web Design School - How to Create a Website that People will Love
+- :x: **Day 66** - Advanced - Building Your Own API with RESTful Routing
+- :x: **Day 67** - Advanced - Blog Capstone Project Part 3 - RESTful Routing
+- :x: **Day 68** - Advanced - Authentication with Flask
+- :x: **Day 69** - Advanced - Blog Capstone Project Part 4 - Adding Users
+- :x: **Day 70** - Advanced - Deploying Your Web Application with Heroku
+- :x: **Day 71** - Advanced - Data Exploration with Pandas: College Major v.s. Your Salary
+- :x: **Day 72** - Advanced - Data Visualisation with Matplotlib: Programming Languages
+- :x: **Day 73** - Advanced - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+- :x: **Day 74** - Advanced - Google Trends Data: Resampling and Visualising Time Series
+- :x: **Day 75** - Advanced - Beautiful Plotly Charts & Analysing the Android App Store
+- :x: **Day 76** - Advanced - Computation with NumPy and N-Dimensional Arrays
+- :x: **Day 77** - Advanced - Linear Regression and Data Visualisation with Seaborn
+- :x: **Day 78** - Advanced - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+- :x: **Day 79** - Advanced - The Tragic Discovery of Handwashing: t-Tests & Distributions
+- :x: **Day 80** - Advanced - Capstone Project  - Predict House Prices
+- :x: **Day 81** - Professional Portfolio Project - [Python Scripting]
 - :x: **Day 82**
 - :x: **Day 83**
 - :x: **Day 84**
