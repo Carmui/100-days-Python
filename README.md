@@ -57,7 +57,7 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 51** - Intermediate+ - Internet Speed Twitter Complaint Bot
 - :heavy_check_mark: **Day 52** - Intermediate+ - Instagram Follower Bot
 - :heavy_check_mark: **Day 53** - Intermediate+ - Web Scraping Capston - Data Entry Job Automation
-- :x: **Day 54** - Intermediate+ - Introduction to Web Development with Flask
+- :heavy_check_mark: **Day 54** - Intermediate+ - Introduction to Web Development with Flask
 - :x: **Day 55** - Intermediate+ - HTML & URL Parsing in Flask and the Higher Lower Game
 - :x: **Day 56** - Intermediate+ - Rendering HTML/Static Files and Using Website Templates
 - :x: **Day 57** - Intermediate+ - Templating with Jinja in Flask Applications
