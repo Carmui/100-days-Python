@@ -1,0 +1,108 @@
+    body {
+        margin:0;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+        font-size: 20px;
+    }
+
+    hr{
+        margin: 70px auto 70px auto;
+        background-color: EAF6F6;
+        border-style: none;
+        border-top-style: dotted;
+        border-color: lightgrey;
+        border-width:5px;
+        width: 3%;
+    }
+
+    h1 {
+        font-size: 565.2%;
+        color: #66BFBF;
+        line-height: 200%;
+        margin: 50px auto 0 auto;
+        font-family: 'Sacramento', cursive;
+    }
+
+    h2 {
+        margin-top: 0;
+        color: #66BFBF;
+        font-weight: normal;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    h3 {
+        margin-top: 0;
+        color: #11999E;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    a {
+        color: #11999E;
+    }
+
+    .top-container{
+        background-color: #E4F9F5;
+        position: relative;
+        padding-top: 100px;
+    }
+
+    .middle-container{
+
+    }
+
+    .contact-me{
+        margin-bottom: 20px;
+    }
+
+    .top-cloud{
+        position: absolute;
+        right: 300px;
+        top: 50px;
+    }
+
+    .bottom-cloud{
+        position: absolute;
+        left: 300px;
+        bottom: 300px;
+    }
+
+    .skill-row{
+         width: 50%;
+         margin: 100px auto 100px auto;
+         text-align: left;
+         line-height: 2;
+    }
+
+    .fire-work{
+        margin-top: 40px;
+    }
+
+
+    .fire1-img{
+        width: 25%;
+        float: left;
+        margin-right: 25px;
+    }
+
+
+    .fire2-img{
+        width: 25%;
+        float: right;
+        maring-left: 25px;
+    }
+
+
+    .bottom-container{
+        background-color: #66BFBF;
+        padding: 50px 0 20px;
+    }
+
+
+    .footer-link{
+        margin: 200px 50px 50px 50px;
+    }
+
+
+    .copyrights{
+        color: white;
+    }
