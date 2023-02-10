@@ -59,7 +59,7 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 53** - Intermediate+ - Web Scraping Capston - Data Entry Job Automation
 - :heavy_check_mark: **Day 54** - Intermediate+ - Introduction to Web Development with Flask
 - :heavy_check_mark: **Day 55** - Intermediate+ - HTML & URL Parsing in Flask and the Higher Lower Game
-- :x: **Day 56** - Intermediate+ - Rendering HTML/Static Files and Using Website Templates
+- :heavy_check_mark: **Day 56** - Intermediate+ - Rendering HTML/Static Files and Using Website Templates
 - :x: **Day 57** - Intermediate+ - Templating with Jinja in Flask Applications
 - :x: **Day 58** - Intermediate+ - Web Foundation Bootstrap
 - :x: **Day 59** - Advanced - Blog Capstone Project Part 2 - Adding Styling
