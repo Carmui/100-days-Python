@@ -62,7 +62,7 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 56** - Intermediate+ - Rendering HTML/Static Files and Using Website Templates
 - :heavy_check_mark: **Day 57** - Intermediate+ - Templating with Jinja in Flask Applications
 - :heavy_check_mark: **Day 58** - Intermediate+ - Web Foundation Bootstrap
-- :x: **Day 59** - Advanced - Blog Capstone Project Part 2 - Adding Styling
+- :heavy_check_mark: **Day 59** - Advanced - Blog Capstone Project Part 2 - Adding Styling
 - :x: **Day 60** - Advanced - Make POST Requests with Flask and HTML Forms
 - :x: **Day 61** - Advanced - Building Advanced Forms with Flask-WTForms
 - :x: **Day 62** - Advanced - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
