@@ -2,6 +2,8 @@
 
 I have not included basic exercises like string/int manipulation, addition, etc. in the project section. The more complicated things are going to be attached to this github repository.
 
+~Update - since there were a lot of web developer lessons, I have decided to skip some of them - not part of my job. :)
+
 #
 
 - :heavy_check_mark: **Day 1** - Beginner - Working with Variables in Python to Manage Data
