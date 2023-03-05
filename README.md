@@ -75,7 +75,7 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :x: **Day 67** - Advanced - Blog Capstone Project Part 3 - RESTful Routing
 - :x: **Day 68** - Advanced - Authentication with Flask
 - :x: **Day 69** - Advanced - Blog Capstone Project Part 4 - Adding Users
-- :x: **Day 70** - Advanced - Deploying Your Web Application with Heroku
+- :heavy_check_mark: **Day 70** - Advanced - Deploying Your Web Application with Heroku
 - :x: **Day 71** - Advanced - Data Exploration with Pandas: College Major v.s. Your Salary
 - :x: **Day 72** - Advanced - Data Visualisation with Matplotlib: Programming Languages
 - :x: **Day 73** - Advanced - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
