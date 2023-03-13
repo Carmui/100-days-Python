@@ -78,7 +78,7 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 70** - Advanced - Deploying Your Web Application with Heroku
 - :heavy_check_mark: **Day 71** - Advanced - Data Exploration with Pandas: College Major v.s. Your Salary
 - :heavy_check_mark: **Day 72** - Advanced - Data Visualisation with Matplotlib: Programming Languages
-- :x: **Day 73** - Advanced - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+- :heavy_check_mark: **Day 73** - Advanced - Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
 - :x: **Day 74** - Advanced - Google Trends Data: Resampling and Visualising Time Series
 - :x: **Day 75** - Advanced - Beautiful Plotly Charts & Analysing the Android App Store
 - :x: **Day 76** - Advanced - Computation with NumPy and N-Dimensional Arrays
