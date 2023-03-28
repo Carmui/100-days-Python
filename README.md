@@ -84,7 +84,7 @@ I have not included basic exercises like string/int manipulation, addition, etc.
 - :heavy_check_mark: **Day 76** - Advanced - Computation with NumPy and N-Dimensional Arrays
 - :heavy_check_mark: **Day 77** - Advanced - Linear Regression and Data Visualisation with Seaborn
 - :heavy_check_mark: **Day 78** - Advanced - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
-- :x: **Day 79** - Advanced - The Tragic Discovery of Handwashing: t-Tests & Distributions
+- :heavy_check_mark: **Day 79** - Advanced - The Tragic Discovery of Handwashing: t-Tests & Distributions
 - :x: **Day 80** - Advanced - Capstone Project  - Predict House Prices
 - :x: **Day 81** - Professional Portfolio Project - [Python Scripting]
 - :x: **Day 82**
